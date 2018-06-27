@@ -1,3 +1,3 @@
 FROM alpine:3.7
 
-CMD ["echo", "hello asia!!!"]
+CMD ["echo", "hello asia!"]
